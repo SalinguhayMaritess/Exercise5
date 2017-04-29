@@ -1,2 +1,1 @@
-#Exercise5
-CSS and HTML
+This html consists using html tags with stylesheet format. 
